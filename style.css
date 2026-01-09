@@ -1,0 +1,93 @@
+header{
+    font-family: 'Arial Black';
+    font-size: 3em;
+    text-align: center;
+
+    width: 100%;
+    padding: 50px;
+    
+    box-sizing: border-box;
+    z-index: 1;
+
+    border-bottom: 5px solid hsl(263, 40%, 50%);
+
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 13%);
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-family: 'Segoe UI Black';
+    font-size: 35px;
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+/* AVISO */
+.aviso{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+
+    width: 75%;
+    margin: 25px;
+    padding: 20px 40px;
+
+    border-radius: 20px;
+    
+    color: hsl(0, 0%, 90%);
+    background-color: hsla(0, 0%, 0%, 0.5);
+
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+
+    transition: transform 1s;
+}
+
+.aviso:hover{
+    transform: scale(1.05);
+}
+
+/* BOTÃO*/
+.botoes{
+    display: flex;
+
+    gap: 20px;
+}
+
+.botao{
+    font-family: monospace;
+    font-size: 25px;
+
+    width: 250px;
+    margin-bottom: 10px;
+    padding: 20px;
+
+    border-radius: 20px;
+
+    background-color: rgba(22, 19, 179, 0.5);
+
+    transition: background-color 0.5s ease, color 0.5s ease;
+}
+
+.botao:hover{
+    color: white;
+    background-color: rgba(22, 19, 179, 0.8);
+}
