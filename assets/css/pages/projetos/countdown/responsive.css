@@ -32,6 +32,13 @@
     }
 }
 
+@media (max-width: 530px){
+    #botao-mute{
+        top: 80px;
+        right: 20px;
+    }
+}
+
 @media (max-height: 768px) {
     .logo{
         height: 150px;
