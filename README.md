@@ -1,2 +1,8 @@
 # 🌐 WEBSITE
 https://www.migs-studio.com.br
+
+# 📣 CHANGELOG
+- README.md created
+- Language button (PT-BR & EN-US)
+- Better responsive screen for mobile devices
+- **Countdown**: Showcase´s timer updated
