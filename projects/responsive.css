@@ -1,0 +1,10 @@
+/* DISPOSITIVOS MÓVEIS */
+@media (pointer: coarse) and (hover: none){
+    body{
+        max-height: 100%;
+    }
+
+    .split-section{
+        max-height: 82vw;
+    }
+}
