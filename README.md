@@ -1,15 +1,15 @@
 # 🌐 WEBSITE
 https://www.migs-studio.com.br
 
-# 🕒 MAINTENANCE
-01.18.2026 — 17:00 UTC
-
-# 📣 CHANGELOG | 01.15.2026
+# 📣 CHANGELOG | 01.18.2026
 **GENERAL**
-- README.md created
-- Better responsive screen for mobile devices
-- ADDED language button (PT-BR & EN-US)
+- Changelog on the home page
+- Language button is now smaller for a cleaner layout
+- Better navigation bar responsive for smaller screens
+- Advice button always shows the title in mobile devices
+- Countdown home page now have better responsive for smaller screens
 
 **COUNTDOWN**
-- Showcase´s timer updated
-- REMOVED language button
+- ADDED Official Website & Store links
+- REMOVED Resident Evil Showcase timer
+- Showcase link ajusted
