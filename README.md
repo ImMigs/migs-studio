@@ -1,6 +1,9 @@
 # 🌐 WEBSITE
 https://www.migs-studio.com.br
 
+# 🕒 MAINTENANCE
+01.18.2026 — 17:00 UTC
+
 # 📣 CHANGELOG | 01.15.2026
 **GENERAL**
 - README.md created
@@ -10,6 +13,3 @@ https://www.migs-studio.com.br
 **COUNTDOWN**
 - Showcase´s timer updated
 - REMOVED language button
-
-# 🕒 MAINTENANCE
-01.18.2026 — 17:00 UTC
